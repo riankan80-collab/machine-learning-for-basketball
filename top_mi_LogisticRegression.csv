@@ -1,0 +1,11 @@
+feature,mutual_info
+Release_Timing_ms,0.06420513635207592
+Height_cm,0.036169024315963805
+Accelerometer_X_m_s2,0.0360626630846026
+Distance_from_Basket_m,0.032752492318549375
+Arc_Radius_m,0.03143933597598125
+Release_Angle_deg,0.008618676515615986
+Shot_Type_encoded,0.005425712072651523
+Age,0.0
+Weight_kg,0.0
+Shot_Angle_deg,0.0

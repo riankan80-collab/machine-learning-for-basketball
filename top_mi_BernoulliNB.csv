@@ -1,0 +1,11 @@
+feature,mutual_info
+Gyroscope_Z_deg_s,0.003203994757567774
+Release_Timing_ms,0.003203994757567774
+Gyroscope_Y_deg_s,0.002224268142557273
+Distance_from_Basket_m,0.0014231508352346434
+Accelerometer_Y_m_s2,0.0014231508352346434
+Shot_Angle_deg,0.0008003559455164178
+Gyroscope_X_deg_s,0.0008003559455164178
+Shot_Speed_m_s,0.0008003559455164178
+Release_Angle_deg,0.0008003559455164178
+Follow_Through_Angle_deg,0.0008003559455164178
